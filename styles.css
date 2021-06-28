@@ -48,10 +48,9 @@ body {
 }
 
 .subtitle a {
-	text-decoration:none;
-	
-	
+	text-decoration:none;	
 }
+
 .nav-link-wrapper:hover {
 	border-bottom: 1px solid black;
 }
